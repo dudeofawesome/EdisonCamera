@@ -1,0 +1,13 @@
+The remote release interface is incredibly simple - just a 2.5mm stereo
+headphone socket. Short the base and ring to initiate AF, and short the base
+and tip to fire the shutter. Hold the base and tip shorted for a bulb
+exposure. So it is fairly basic electronics to make a timer to control
+these. The slightly more complicated electronics is determined by how much
+control you want to have over the timer functions.
+
+
+Green = tip
+Red = ring (?)
+Copper = base
+
+~1.2V across tip and base
